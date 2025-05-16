@@ -1,4 +1,4 @@
-# CityU_CDE
+# CDE
 CDE 打雜
 ## Before you start
 
