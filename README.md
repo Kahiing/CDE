@@ -44,10 +44,10 @@ Please understand that:
 | GE2318 | Complexity in Science & Tech |   |
 
 ## Update
-Please note that the lecture notes may vary each year, so it's always best to refer to your own lecture materials for study.
+- Please note that the lecture notes may vary each year, so it's always best to refer to your own lecture materials for study.
 Therefore, I won't be uploading new lecture notes here unless there is a specific request.
 
-I think my notes are quite useful for the **midterm**, but not so much for the **final exam** —  
+- I think my notes are quite useful for the **midterm**, but not so much for the **final exam** —  
 Honestly, I was too lazy to write stuff down properly during the final period 😅
 
 So feel free to use these notes to help you study, but don't rely on them 100% — especially near the end!
