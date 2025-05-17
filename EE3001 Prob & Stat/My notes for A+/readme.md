@@ -1,4 +1,3 @@
 # Prob and Stat Notes? Nope 😎
 
-> "No notes cause prob and stat easy asf"
-> "都係個句prob and stat 都搞唔掂建議你quit U rejupas"
+> "如果你 prob and stat 都搞唔掂建議你 quit U rejupas"
