@@ -1,14 +1,15 @@
 # CDE
-CDE 打雜
+![IMG_7035](https://github.com/user-attachments/assets/baa5e89a-5cb7-4cec-9b2e-78377c354bcf)
+
+加油 淨係得把口 唔係自己友
+
+要幫手 即刻岀門口 就係自己友
 ## Before you start
 
 Please understand that:
 
 > [!WARNING]
 >- All content provided here is purely for educational purposes
->- No shady business intended, we promise.
->- CityU, if you're reading this, just pretend you didn’t see anything.
->- Also, mind giving us an A for effort? P.S. Can someone check my grammar before I submit this questionable life choices essay?
 
 ## Courses
 
@@ -48,7 +49,7 @@ Please understand that:
 Therefore, I won't be uploading new lecture notes here unless there is a specific request.
 
 - I think my notes are quite useful for the **midterm**, but not so much for the **final exam** —  
-Honestly, I was too lazy to write stuff down properly during the final period 😅
+Honestly, I was too lazy to write stuff down properly during the final period.
 
 So feel free to use these notes to help you study, but don't rely on them 100% — especially near the end!
 
@@ -65,7 +66,7 @@ I would like to acknowledge and give credit to the following repositories and re
 - [MEE Source Drive](https://drive.google.com/drive/u/1/folders/11ZfNG83pzbz7BcrZl7s5EU1X5GQ57qHM )  
   *(Source for extra materials including GE1359 and others)*
 
-- [Old EE Notes by AlexLeungZ](https://github.com/Kahiing/EE-Notes )  
+- [Old EE Notes by AlexLeungZ](https://drive.google.com/drive/folders/1gQkx-rWZR4MAYt6qP6bYQ3HV21hq-Sji?usp=sharing )  
   *(Great example of well-organized engineering notes)*
 
 - [Some mystery guy's Drive](https://drive.google.com/drive/folders/1lDICT8LihMBsIP_OLZ0DCjVQvSvsHHYu )  
