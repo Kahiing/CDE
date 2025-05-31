@@ -16,33 +16,33 @@ Please understand that:
 ### Major Core
 | Code | Course |
 | --- | --- | 
-| EE1001 | Fndt'n Digital Tech |  
-| EE1002 | Principles of Electrical Eng |   
-| EE1004 | Fndt'n of IS & Data Anlys |
-| EE2000 | Logic Circuit Design |  
-| EE2005 | Electronic Devices & Circuits  |   
-| EE3001 | Foundations of Data Engg |    
-| EE3009 | Data Com and Networking |   
-| EE3210 | Signals and Systems |   
+| [EE1001](https://github.com/Kahiing/CityU-CDE/tree/main/EE1001%20Logic%2023SemB)  | Fndt'n Digital Tech |  
+| [EE1002](https://github.com/Kahiing/CityU-CDE/tree/main/EE1002%20Circuit%2023SemA) | Principles of Electrical Eng |   
+| [EE1004](https://github.com/Kahiing/CityU-CDE/tree/main/EE1004%20Prob%20%26%20Stat%2023SemA) | Fndt'n of IS & Data Anlys |
+| [EE2000](https://github.com/Kahiing/CityU-CDE/tree/main/EE2000%20Logic%20Circuit%2024SemA) | Logic Circuit Design |  
+| [EE2005](https://github.com/Kahiing/CityU-CDE/tree/main/EE2005%20Circuit%2024SemB) | Electronic Devices & Circuits  |   
+| [EE3001](https://github.com/Kahiing/CityU-CDE/tree/main/EE3001%20Prob%20%26%20Stat%2024SemA) | Foundations of Data Engg |    
+| [EE3009](https://github.com/Kahiing/CityU-CDE/tree/main/EE3009%20Networking%2024SemB) | Data Com and Networking |   
+| [EE3210](https://github.com/Kahiing/CityU-CDE/tree/main/EE3210%20Signal%20and%20System%2024SemB) | Signals and Systems |   
 | X GE1354 | Intro to Electronic Design (垃圾course!) |   
 
 ### University Requirements
 | Code | Course | 
 | --- | --- |
 | X CS1302 | Intro to Comp Progm'g (Python 自已讀啦)| 
-| CS2311 | Computer Programming |    
+| [CS2311](https://github.com/Kahiing/CityU-CDE/tree/main/CS2311%20C%2B%2B%2024SemB) | Computer Programming |    
 | X MA1200 | Calc & Basic Linear Algebra (Chill course)I |   
-| MA1201 | Calc & Basic Linear Algebra II | 
-| MA2001 | Multi-v Calcu & Linear Algebra |    
+| [MA1201](https://github.com/Kahiing/CityU-CDE/tree/main/MA1201%20Ez%20Math%2023SemB) | Calc & Basic Linear Algebra II | 
+| [MA2001](https://github.com/Kahiing/CityU-CDE/tree/main/MA2001%20Multi-v%20Calcu%20%26%20Linear%20Algebra%2024SemA) | Multi-v Calcu & Linear Algebra |    
 | X PHY1202 | General Physics II (好似成個course冇咗)|   
 
 ### Gateway Education
 
 | Code | Course | 
 | --- | --- |
-| GE1305 | Foundation Physics |    
-| GE1359 | Algebra |  
-| GE2318 | Complexity in Science & Tech |   
+| [GE1305](https://github.com/Kahiing/CityU-CDE/tree/main/GE1305%20Foundation%20phy%2024SemB) | Foundation Physics |    
+| [GE1359](https://github.com/Kahiing/CityU-CDE/tree/main/GE1359%20Algebra) | Algebra |  
+| [GE2318](https://github.com/Kahiing/CityU-CDE/tree/main/GE2318%20Complexity%20in%20Science%20%26%20Tech%2023SemB) | Complexity in Science & Tech |   
 
 ## Update
 - Please note that the lecture notes may vary each year, so it's always best to refer to your own lecture materials for study.
