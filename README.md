@@ -1,9 +1,6 @@
 # CDE
 ![IMG_7035](https://github.com/user-attachments/assets/baa5e89a-5cb7-4cec-9b2e-78377c354bcf)
 
-加油 淨係得把口 唔係自己友
-
-要幫手 即刻岀門口 就係自己友
 ## Before you start
 
 Please understand that:
