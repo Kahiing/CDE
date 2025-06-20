@@ -1,6 +1,7 @@
 # CDE
 ![IMG_7035](https://github.com/user-attachments/assets/baa5e89a-5cb7-4cec-9b2e-78377c354bcf)
 
+不行動永遠都得不到確實的得著
 ## Before you start
 
 Please understand that:
